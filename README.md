@@ -8,7 +8,7 @@
 
 Hu liangguowen Blog : [www.lgwen.top](http://www.lgwen.top/)
 
-![Theme_HuWeihuang](https://res.cloudinary.com/dti06j5ai/image/upload/v1593844513/1593842366_1_vc4oar.png)
+![Theme_HuWeihuang](https://res.cloudinary.com/dti06j5ai/image/upload/v1593844835/1593842366_1_bq6auw.jpg)
 
 # Copyright Notice
 
