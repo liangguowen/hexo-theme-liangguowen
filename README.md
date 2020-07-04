@@ -1,21 +1,20 @@
-> Ported Theme of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), Thank [Huxpro](https://github.com/Huxpro) for designing such a flawless theme.
+> Ported Theme of [liangguowen Blog](https://liangguowen.github.io/), Thank [liangguowen](https://github.com/liangguowen) for designing such a flawless theme.
 >
-> This HuWeihuang theme created by [HuWeihuang](http://www.huweihuang.com/) modified from the original Porter [YuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech).
+> This liangguowen theme created by [liangguowen](http://www.lgwen.top/) modified from the original Porter [YuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech).
 > 
 > This theme has been published to the [hexo theme list](https://hexo.io/themes/).
 
 # Live Demo
 
-Hu Weihuang Blog : [www.lgwen.com](http://www.lgwen.com/)
+Hu Weihuang Blog : [www.lgwen.top](http://www.lgwen.top/)
 
-![Theme_HuWeihuang](https://res.cloudinary.com/dqxtn0ick/image/upload/v1553666111/blog/blog.jpg)
+![Theme_HuWeihuang](https://liangguowen.oss-ap-southeast-1.aliyuncs.com/hexo/index/1593842366%281%29.png)
 
 # Copyright Notice
 
 **You can free to use this theme, but you need to keep the following copyright notice on the website.**
 
-<img src="https://res.cloudinary.com/dqxtn0ick/image/upload/v1537879475/header/copyright.png" width="55%">
-
+<img src="https://liangguowen.oss-ap-southeast-1.aliyuncs.com/hexo/index/1593842811%281%29.png" width="60%">
 # Install Hexo
 
 Install Node.js  and Git
