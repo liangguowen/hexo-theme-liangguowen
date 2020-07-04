@@ -1,20 +1,20 @@
 ---
-title: "[Docker] 架构原理及简单使用"
+title: "[Docker] 架构原理"
 catalog: true
 toc_nav_num: true
-date: 2019-09-18 10:51:24
+date: 2020-06-18 10:51:24
 subtitle: "This is Docker"
 header-img: "/img/docker/docker4.jpg"
 tags:
 - Docker
 catagories:
 - Docker
-updateDate: 2010-09-18 10:51:24
-top: 1
+updateDate: 2020-06-18 10:51:24
+top: 2
 
 ---
 
-**Docker1 架构原理及简单使用**
+**Docker1 架构原理**
 
 ## 一、简介
 

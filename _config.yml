@@ -207,7 +207,7 @@ data-fixed: true
   # data-autoplay:    
 
 # Reward
-reward: true
+reward: false
 reward_comment: 赞赏一下
 wechatpay: https://n4.hdfimg.com/g2/M03/94/64/yIYBAFzFm7uAPCRDAAAD0CGiD1s447.png?_ms_=45d0
 alipay: alipay_url
