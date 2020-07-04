@@ -6,15 +6,15 @@
 
 # Live Demo
 
-Hu Weihuang Blog : [www.lgwen.top](http://www.lgwen.top/)
+Hu liangguowen Blog : [www.lgwen.top](http://www.lgwen.top/)
 
-![Theme_HuWeihuang](https://liangguowen.oss-ap-southeast-1.aliyuncs.com/hexo/index/1593842366%281%29.png)
+![Theme_HuWeihuang](https://res.cloudinary.com/dti06j5ai/image/upload/v1593844513/1593842366_1_vc4oar.png)
 
 # Copyright Notice
 
 **You can free to use this theme, but you need to keep the following copyright notice on the website.**
 
-<img src="https://liangguowen.oss-ap-southeast-1.aliyuncs.com/hexo/index/1593842811%281%29.png" width="60%">
+<img src="https://res.cloudinary.com/dti06j5ai/image/upload/v1593844571/1593842811_1_ab729y.png" width="60%">
 # Install Hexo
 
 Install Node.js  and Git
